@@ -20,5 +20,6 @@ will read anotherimage.jpg, glitch it ands ave it to out.jpg
 
 Before:
 ![Before Image](http://i.imgur.com/LvpvH5X.jpg)
+
 After:
 ![After Image](http://i.imgur.com/xIgpr7v.jpg)
