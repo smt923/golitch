@@ -19,7 +19,9 @@ will read anotherimage.jpg, glitch it and save it to out.jpg
 ## Example Image
 
 Before:
+
 ![Before Image](http://i.imgur.com/LvpvH5X.jpg)
 
 After:
+
 ![After Image](http://i.imgur.com/xIgpr7v.jpg)
